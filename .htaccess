@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{REQUEST_URI} ^/(.+)$
+RewriteRule ^([a-zA-Z0-9]*)([:]*)([a-zA-Z0-9]*)([:]*)([a-zA-Z0-9]*)$ $1.php?$3=$5

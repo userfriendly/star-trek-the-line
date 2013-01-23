@@ -1,0 +1,99 @@
+html, body {
+	margin:0; padding:0;
+	height:100%;
+}
+
+body {
+	background: #000;
+	font-family: 'Offside', Arial, Helvetica, sans-serif;
+	color: #DDD;
+}
+
+/* Center the content */
+
+#floater {
+	position:relative;
+	float:left;
+	height:50%;
+	margin-bottom:-380px;
+	width:1px;
+}
+
+#centered {
+	position:relative;
+	clear:left;
+	height:700px;
+	width:80%;
+	max-width:920px;
+	min-width:400px;
+	margin:0 auto;
+}
+
+/* Main text area styling */
+
+.maintext {
+	padding: 10px;
+	background: #333;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	text-align:justify;
+	text-justify:inter-word;
+	text-shadow: 1px 1px #000;
+}
+
+/* adapted main text area for list integration */
+
+.maintext-list {
+	padding: 10px;
+	background: #CCC;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	text-align:justify;
+	text-justify:inter-word;
+	text-shadow: 1px 1px #000;
+}
+
+/* Navigation Style */
+
+#mainlinks {
+	width: 100%;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 2px;
+}
+
+#mainlinks ul {
+	display: inline-block;
+	list-style-type: none;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+}
+
+#mainlinks li {
+	float: left;
+	padding: 2px 5px;
+}
+
+#mainlinks ul a {
+	color: #FFF;
+	padding-right: 32px;
+	padding-left: 32px;
+	display: block;
+	text-decoration: none;
+}
+
+#mainlinks ul a:hover {
+	color: #888;
+}
+
+/* Footer */
+
+#bottom {
+	text-align: right;
+	padding-top: 10px;
+	font-size: 10px;
+	color: #666;
+}
