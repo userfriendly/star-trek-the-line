@@ -1,4 +1,5 @@
-star-trek-the-line
+Star trek: The Line
 ==================
 
-Website codebase for Star Trek: The Line written game
+This repository contains the website codebase for 'Star Trek: The Line' written
+game located at http://theline.indigolemon.co.uk
