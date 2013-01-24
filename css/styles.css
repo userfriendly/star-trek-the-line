@@ -42,6 +42,18 @@ body {
 	text-shadow: 1px 1px #000;
 }
 
+.maintext table {
+	width: 100%;
+}
+
+.maintext td {
+	vertical-align: top;
+}
+
+.maintext .subtext {
+	font-size: 12px;
+}
+
 /* adapted main text area for list integration */
 
 .maintext-list {
