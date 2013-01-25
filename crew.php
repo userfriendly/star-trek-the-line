@@ -121,7 +121,7 @@
 				<tr>
 					<td>Weapons Officer</td>
 					<td>Ensign</td>
-					<td> -- </td>
+					<td>Derrick Patterson</td>
 				</tr>
 				<tr>
 					<td>Master-At-Arms</td>
@@ -144,7 +144,7 @@
 				<tr>
 					<td>Chief Medical Officer</td>
 					<td>Lieutenant</td>
-					<td> -- </td>
+					<td>Harker James</td>
 				</tr>
 				<tr>
 					<td>Medic</td>
