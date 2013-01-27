@@ -147,6 +147,11 @@
 					<td>Harker James</td>
 				</tr>
 				<tr>
+					<td>Ships Counsellor</td>
+					<td>Lieutenant</td>
+					<td>Maryam Della Seta</td>
+				</tr>
+				<tr>
 					<td>Medic</td>
 					<td> -- </td>
 					<td> -- </td>
