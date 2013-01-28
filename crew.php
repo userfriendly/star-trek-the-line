@@ -30,9 +30,9 @@
 					<td> -- </td>
 				</tr>
 				<tr>
-					<td>Pilot</td>
+					<td>Chief Helmsman</td>
 					<td>Ensign</td>
-					<td> -- </td>
+					<td>Kenneth Tomlin</td>
 				</tr>
 				<tr>
 					<td colspan="3">
@@ -125,8 +125,8 @@
 				</tr>
 				<tr>
 					<td>Master-At-Arms</td>
-					<td> -- </td>
-					<td> -- </td>
+					<td>Master Chief Petty Officer</td>
+					<td>Tobias Breuer <span class="subtext">[NPC]</span></td>
 				</tr>
 				<tr>
 					<td>Gunner's Mate</td>
