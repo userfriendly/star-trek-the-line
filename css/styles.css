@@ -67,6 +67,16 @@ body {
 	text-shadow: 1px 1px #000;
 }
 
+/* MSD wrapper */
+.msd {
+	margin-bottom: 5px;
+	padding: 10px;
+	background: #000;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
 /* Navigation Style */
 
 .navigation.maintext {
@@ -102,6 +112,17 @@ body {
 }
 
 #mainlinks ul a:hover {
+	color: #888;
+}
+
+/* links */
+
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+a:hover {
 	color: #888;
 }
 

@@ -12,11 +12,11 @@
 	<script type="text/javascript" src="js/ddpowerzoomer.js"></script>
 	<script type="text/javascript">
 		jQuery(document).ready(function($){ //fire on DOM ready
-			$('img.msd').addpowerzoom({
-				defaultpower: 2,
-				powerrange: [2,5],
-				largeimage: images/theseus.jpg,
-				magnifiersize: [100,100] 
+			$('#msd').addpowerzoom({
+				defaultpower: 3,
+				powerrange: [2,3],
+				largeimage: "images/theseus.jpg",
+				magnifiersize: [200,200]
 			})
 		})
 	</script>
