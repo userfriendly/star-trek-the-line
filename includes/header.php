@@ -8,6 +8,18 @@
 	<meta name="language" content="en" />
 	<title> Star Trek: The Line</title>
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="js/ddpowerzoomer.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($){ //fire on DOM ready
+			$('img.msd').addpowerzoom({
+				defaultpower: 2,
+				powerrange: [2,5],
+				largeimage: images/theseus.jpg,
+				magnifiersize: [100,100] 
+			})
+		})
+	</script>
 	<link href='http://fonts.googleapis.com/css?family=Offside' rel='stylesheet' type='text/css' />
 	<link rel="stylesheet" href="/css/styles.css" type="text/css" media="all" />
 </head>
