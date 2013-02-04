@@ -92,8 +92,8 @@
 				</tr>
 				<tr>
 					<td>Chief Engineering Officer</td>
-					<td> -- </td>
-					<td> -- </td>
+					<td>Warrant Officer 2nd Grade</td>
+					<td>Riallashandra Vryn</td>
 				</tr>
 				<tr>
 					<td>Engineering's Mate</td>
